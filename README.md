@@ -28,5 +28,3 @@ MySQL | MongoDB | SQLite
 Sou um estudante apaixonado por tecnologia e programação, sempre em busca de novos desafios. Gosto de explorar diferentes áreas da computação, desde o desenvolvimento de software até o gerenciamento de dados e infraestrutura. Estou comprometido em melhorar constantemente minhas habilidades, e acredito que a chave para o sucesso é aprender com cada experiência. Adoro colaborar em projetos e compartilhar conhecimento com outros desenvolvedores.
 
 ---
-
-Feito com ❤️
