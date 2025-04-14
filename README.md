@@ -4,7 +4,9 @@
 Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de expandir minhas habilidades, explorando novas tecnologias e boas práticas de programação. Atualmente, estou trabalhando com Análise de Dados usando Python na CompassUOL, o que tem me proporcionado grandes aprendizados. Além disso, tenho experiência com MySQL, MongoDB e SQLite, sempre focado em melhorar a eficiência e a qualidade das soluções que desenvolvo.
 
 ## 🌐 Redes Sociais  
-[LinkedIn](#) | [GitHub](https://github.com/N1colaxx)
+[GitHub](https://github.com/N1colaxx)
+[Instagram](https://www.instagram.com/ni.colaxx/)
+
 
 ## 🤖 Linguagens e Tecnologias  
 Java | Python | PHP | SQL | Git | HTML | CSS
