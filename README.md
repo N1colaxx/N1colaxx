@@ -3,9 +3,15 @@
 
 Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de expandir minhas habilidades, explorando novas tecnologias e boas práticas de programação. Atualmente, estou trabalhando com Análise de Dados usando Python na CompassUOL, o que tem me proporcionado grandes aprendizados. Além disso, tenho experiência com MySQL, MongoDB e SQLite, sempre focado em melhorar a eficiência e a qualidade das soluções que desenvolvo.
 
-## 🌐 Redes Sociais  
-## 🌐 Redes Sociais  
-[GitHub](https://github.com/N1colaxx) | <a href="https://www.instagram.com/ni.colaxx/" target="_blank">Instagram</a>
+## 🌐 Redes Sociais
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N1colaxx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ni.colaxx/)
+
+---
+
+![GitHub Stars](https://img.shields.io/github/stars/N1colaxx?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/N1colaxx?style=social)
 
 
 
