@@ -16,7 +16,7 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 
 
 ## 🤖 Linguagens e Tecnologias  
-Java | Python | PHP | SQL | Git | HTML | CSS
+Java | Python | PHP | Docker | SQL | Git | HTML | CSS
 
 ## 💻 Já Trabalhei com:  
 MySQL | MongoDB | SQLite
