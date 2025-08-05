@@ -16,10 +16,10 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 
 
 ## 🤖 Linguagens e Tecnologias  
-Java | Python | PHP | Docker | SQL | Git | HTML | CSS
+Java | Python | PHP | Docker | SQL | Git | HTML | CSS 
 
 ## 💻 Já Trabalhei com:  
-MySQL | MongoDB | SQLite
+MySQL | MongoDB | SQLite | AWS (S3, Lambda, Glue, Athena ) | Postman
 
 ## 📊 Estatísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1colaxx&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
