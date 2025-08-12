@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N1colaxx)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ni.colaxx/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-borges-976448366/)
 ---
 
 ![GitHub Stars](https://img.shields.io/github/stars/N1colaxx?style=social)
